@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_bmicalculatoractivity.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main_activitymoney.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_send_money.xml" value="0.19076923076923077" />
       </map>
     </option>
   </component>

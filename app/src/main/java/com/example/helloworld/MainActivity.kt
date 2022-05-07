@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         btnBmi = findViewById(R.id.btnBmi)
         btnBmi.setOnClickListener {
-            val intent = Intent(this,BMIcalculatoractivity::class.java)
+            val intent = Intent(this, BMIcalculatoractivity ::class.java)
             startActivity(intent)
 
         }
